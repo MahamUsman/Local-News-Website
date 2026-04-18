@@ -1,2 +1,14 @@
-# Local-News-Website
-Backend uses a JavaScript-based server with a database for storing and managing local news data, along with API integration for data communication. Frontend is developed in React Native, ensuring cross-platform mobile access to the news application.
+# Local News Website
+
+A fully functional local news website with modern React frontend and Node.js/Express backend with SQLite database.
+
+## 🚀 Features
+
+- **Modern React Frontend** with responsive design
+- **Node.js/Express Backend** with REST API
+- **SQLite Database** with sample news articles
+- **Category-based filtering** (Local, Politics, Sports, Entertainment)
+- **Responsive Design** that works on all devices
+- **Clean, Professional UI** with CSS Grid/Flexbox
+
+## 📁 Project Structure
